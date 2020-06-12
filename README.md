@@ -5,3 +5,5 @@ The datasets consists of several medical predictor variables and one target vari
 
 
 ## Source : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+• Please do ⭐ the repository, if it helped you in anyway.
